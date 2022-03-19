@@ -7,7 +7,17 @@
 Replace Directory with your own direcoty url.
 add type of extension
 you can change the code and add more types of extension like an array of extension.
-Create an .exe version with ~~pip install pyinstaller
-then ~~pyinstaller filename --onefile
+```
 
+
+Create an .exe version with 
+
+```
+pip install pyinstaller
+```
+
+Run with
+
+```
+pyinstaller filename --onefile
 ```
